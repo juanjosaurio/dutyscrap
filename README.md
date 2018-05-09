@@ -24,7 +24,7 @@ dos2unix
 After cloning or downloading, you only need to give execution permissions.
 
 ```
-chmod u+x _dutyscrap.sh_
+chmod u+x dutyscrap.sh
 ```
 
 ## Built With
